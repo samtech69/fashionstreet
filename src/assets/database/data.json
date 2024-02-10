@@ -1,0 +1,522 @@
+{
+  "maincategory": [
+    {
+      "id": 0
+    },
+    {
+      "id": 1,
+      "name": "Kids"
+    },
+    {
+      "id": 2,
+      "name": "Female"
+    },
+    {
+      "id": 3,
+      "name": "Male"
+    }
+  ],
+  "subcategory": [
+    {
+      "id": 0
+    },
+    {
+      "name": "T-shirts",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Shirts"
+    }
+  ],
+  "brand": [
+    {
+      "id": 0
+    },
+    {
+      "name": "Addidas",
+      "id": 1
+    },
+    {
+      "name": "Parada",
+      "id": 2
+    },
+    {
+      "name": "Mufti",
+      "id": 3
+    },
+    {
+      "name": "Polo",
+      "id": 4
+    },
+    {
+      "name": "Nike",
+      "id": 5
+    },
+    {
+      "name": "Zara",
+      "id": 6
+    },
+    {
+      "name": "Gucci",
+      "id": 7
+    }
+  ],
+  "product": [
+    {
+      "id": 0
+    },
+    {
+      "id": 1,
+      "name": "Male T-shirt Green",
+      "maincategory": "Male",
+      "subcategory": "T-shirts",
+      "brand": "Mufti",
+      "color": "Green",
+      "size": "34",
+      "baseprice": 4000,
+      "discount": 29,
+      "finalprice": 2840,
+      "stock": "In Stock",
+      "description": "This is a Sample Product\n100% Cotton",
+      "pic1": "tshirt10a.jfif",
+      "pic2": "tshirt10b.jfif",
+      "pic3": "tshirt10c.jfif"
+    },
+    {
+      "name": "Male Green shirt",
+      "maincategory": "Male",
+      "subcategory": "Shirts",
+      "brand": "Nike",
+      "color": "Green",
+      "size": "32",
+      "baseprice": 4500,
+      "discount": 33,
+      "finalprice": 3015,
+      "stock": "In Stock",
+      "description": "This is a Sample Product",
+      "pic1": "shirt10a.jfif",
+      "pic2": "shirt10b.jfif",
+      "pic3": "shirt10c.jfif",
+      "id": 2
+    },
+    {
+      "name": "Male Purple T-shirt",
+      "maincategory": "Male",
+      "subcategory": "T-shirts",
+      "brand": "Mufti",
+      "color": "Purple",
+      "size": "34",
+      "baseprice": 2200,
+      "discount": 36,
+      "finalprice": 1408,
+      "stock": "In Stock",
+      "description": "This is a Sample Product",
+      "pic1": "tshirt6a.jfif",
+      "pic2": "tshirt6b.jfif",
+      "pic3": "tshirt6c.jfif",
+      "id": 3
+    },
+    {
+      "name": "Male White T-shirt",
+      "maincategory": "Male",
+      "subcategory": "T-shirts",
+      "brand": "Zara",
+      "color": "White",
+      "size": "32",
+      "baseprice": 3500,
+      "discount": 60,
+      "finalprice": 1400,
+      "stock": "In Stock",
+      "description": "This is a Sample Product",
+      "pic1": "tshirt8a.jfif",
+      "pic2": "tshirt8b.jfif",
+      "pic3": "tshirt8c.jfif",
+      "id": 4
+    },
+    {
+      "name": "Male Blue T-shirt",
+      "maincategory": "Male",
+      "subcategory": "T-shirts",
+      "brand": "Parada",
+      "color": "Blue",
+      "size": "34",
+      "baseprice": 1200,
+      "discount": 39,
+      "finalprice": 732,
+      "stock": "In Stock",
+      "description": "This is a Sample Product",
+      "pic1": "tshirt4a.jfif",
+      "pic2": "tshirt4b.jfif",
+      "pic3": "tshirt4c.jfif",
+      "id": 5
+    },
+    {
+      "name": "Male Black Pattern T-shirt",
+      "maincategory": "Male",
+      "subcategory": "T-shirts",
+      "brand": "Nike",
+      "color": "Black",
+      "size": "34",
+      "baseprice": 2999,
+      "discount": 49,
+      "finalprice": 1529,
+      "stock": "In Stock",
+      "description": "This is a Sample Product",
+      "pic1": "shirt9a.jfif",
+      "pic2": "shirt9b.jfif",
+      "pic3": "shirt9c.jfif",
+      "id": 6
+    },
+    {
+      "name": "Male White Pattern Shirt",
+      "maincategory": "Male",
+      "subcategory": "Shirts",
+      "brand": "Addidas",
+      "color": "White",
+      "size": "34",
+      "baseprice": 4000,
+      "discount": 59,
+      "finalprice": 1640,
+      "stock": "In Stock",
+      "description": "This is a Sample Product",
+      "pic1": "shirt8a.jfif",
+      "pic2": "shirt8b.jfif",
+      "pic3": "shirt8c.jfif",
+      "id": 7
+    },
+    {
+      "name": "Male Shirt Dark Blue",
+      "maincategory": "Male",
+      "subcategory": "Shirts",
+      "brand": "Parada",
+      "color": "Blue",
+      "size": "32",
+      "baseprice": 2500,
+      "discount": 29,
+      "finalprice": 1775,
+      "stock": "In Stock",
+      "description": "This is a Sample Product",
+      "pic1": "shirt-03.jfif",
+      "pic2": "shirt2c.jfif",
+      "pic3": "shirt2b.jfif",
+      "id": 8
+    },
+    {
+      "name": "Male Lines Shirt Cream",
+      "maincategory": "Male",
+      "subcategory": "Shirts",
+      "brand": "Polo",
+      "color": "Cream",
+      "size": "32",
+      "baseprice": 4000,
+      "discount": 69,
+      "finalprice": 1240,
+      "stock": "In Stock",
+      "description": "This is a Sample Product",
+      "pic1": "shirt3a.jfif",
+      "pic2": "shirt3b.jfif",
+      "pic3": "shirt3c.jfif",
+      "id": 9
+    },
+    {
+      "id": 10,
+      "name": "Male T-shirt Yellow",
+      "maincategory": "Male",
+      "subcategory": "T-shirts",
+      "brand": "Gucci",
+      "color": "Yellow",
+      "size": "32",
+      "baseprice": 1500,
+      "discount": 30,
+      "finalprice": 1050,
+      "stock": "In Stock",
+      "description": "Preshrunk to let the size fit you perfectly.ﾠ\nMore breathability and resistant with combed yarn and soft feel of cotton.\n60 degree color fastness for the bold and bright look.\nSustainable colors ensuring long lastingness. These 4 T-Shirt Pack Combo Are Sold In Regular Men's Size. Women Are Suggested To Order One Size Down In The Unisex T-Shirts. i.e. If You Wear Medium Women's T-Shirt, Then Order S Unisex T-Shirt.",
+      "pic1": "tshirt1a.jfif",
+      "pic2": "tshirt1b.jfif",
+      "pic3": "tshirt1c.jfif"
+    },
+    {
+      "name": "Female Blue Top",
+      "maincategory": "Female",
+      "subcategory": "T-shirts",
+      "brand": "Gucci",
+      "color": "Blue",
+      "size": "34",
+      "baseprice": 2500,
+      "discount": 15,
+      "finalprice": 2125,
+      "stock": "In Stock",
+      "description": "This is a Sample Product",
+      "pic1": "top5a.jfif",
+      "pic2": "top5b.jfif",
+      "pic3": "top5a.jfif",
+      "id": 11
+    }
+  ],
+  "user": [
+    {
+      "id": 0
+    },
+    {
+      "name": "Simarjeet Singh",
+      "username": "simar",
+      "email": "Simarjeet9891@gmail.com",
+      "phone": "9891466004",
+      "password": "1234",
+      "role": "Admin",
+      "id": 1,
+      "address": "",
+      "pin": "",
+      "city": "",
+      "state": "",
+      "pic": "person_2.jpg"
+    },
+    {
+      "name": "Vicky",
+      "username": "vicky123",
+      "email": "vicky123@gmail.com",
+      "phone": "09986456233",
+      "password": "123",
+      "role": "Buyer",
+      "id": 2,
+      "address": "z-64 New Delhi",
+      "pin": "110041",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "pic": "person_3.jpg"
+    }
+  ],
+  "cart": [
+    {
+      "id": 0
+    },
+    {
+      "userid": "1",
+      "productid": "5",
+      "name": "Male Blue T-shirt",
+      "brand": "Parada",
+      "color": "Blue",
+      "size": "34",
+      "price": 732,
+      "qty": 4,
+      "total": 2928,
+      "pic": "tshirt4a.jfif",
+      "id": 3
+    },
+    {
+      "userid": "1",
+      "productid": "10",
+      "name": "Male T-shirt Yellow",
+      "brand": "Gucci",
+      "color": "Yellow",
+      "size": "32",
+      "price": 1050,
+      "qty": 1,
+      "total": 1050,
+      "pic": "tshirt1a.jfif",
+      "id": 4
+    },
+    {
+      "userid": null,
+      "productid": "6",
+      "name": "Male Black Pattern T-shirt",
+      "brand": "Nike",
+      "color": "Black",
+      "size": "34",
+      "price": 1529,
+      "qty": 2,
+      "total": 3058,
+      "pic": "shirt9a.jfif",
+      "id": 5
+    },
+    {
+      "userid": "1",
+      "productid": "7",
+      "name": "Male White Pattern Shirt",
+      "brand": "Addidas",
+      "color": "White",
+      "size": "34",
+      "price": 1640,
+      "qty": 1,
+      "total": 1640,
+      "pic": "shirt8a.jfif",
+      "id": 6
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 0
+    },
+    {
+      "userid": "1",
+      "productid": "3",
+      "name": "Male Purple T-shirt",
+      "brand": "Mufti",
+      "color": "Purple",
+      "size": "34",
+      "price": 1408,
+      "pic": "tshirt6a.jfif",
+      "id": 1
+    },
+    {
+      "userid": "2",
+      "productid": "7",
+      "name": "Male White Pattern Shirt",
+      "brand": "Addidas",
+      "color": "White",
+      "size": "34",
+      "price": 1640,
+      "pic": "shirt8a.jfif",
+      "id": 2
+    }
+  ],
+  "checkout": [
+    {
+      "id": 0
+    },
+    {
+      "userid": "2",
+      "paymentmode": "COD",
+      "paymentstatus": "Ready to Ship",
+      "orderstatus": "Out For Delivery",
+      "subtotal": 3015,
+      "shipping": 0,
+      "total": 3015,
+      "date": "2023-12-21T07:15:47.851Z",
+      "products": [
+        {
+          "userid": "2",
+          "productid": "2",
+          "name": "Male Green shirt",
+          "brand": "Nike",
+          "color": "Green",
+          "size": "32",
+          "price": 3015,
+          "qty": 1,
+          "total": 3015,
+          "pic": "shirt10a.jfif",
+          "id": 9
+        }
+      ],
+      "id": 1
+    },
+    {
+      "userid": "2",
+      "paymentmode": "COD",
+      "paymentstatus": "Done",
+      "orderstatus": "Packed",
+      "subtotal": 2480,
+      "shipping": 0,
+      "total": 2480,
+      "date": "2023-12-21T07:24:42.890Z",
+      "products": [
+        {
+          "userid": "2",
+          "productid": "9",
+          "name": "Male Lines Shirt Cream",
+          "brand": "Polo",
+          "color": "Cream",
+          "size": "32",
+          "price": 1240,
+          "qty": 2,
+          "total": 2480,
+          "pic": "shirt3a.jfif",
+          "id": 7
+        }
+      ],
+      "id": 2
+    },
+    {
+      "userid": "2",
+      "paymentmode": "COD",
+      "paymentstatus": "Done",
+      "orderstatus": "Delivered",
+      "subtotal": 1529,
+      "shipping": 0,
+      "total": 1529,
+      "date": "2023-12-22T11:42:52.960Z",
+      "products": [
+        {
+          "userid": "2",
+          "productid": "6",
+          "name": "Male Black Pattern T-shirt",
+          "brand": "Nike",
+          "color": "Black",
+          "size": "34",
+          "price": 1529,
+          "qty": 1,
+          "total": 1529,
+          "pic": "shirt9a.jfif",
+          "id": 7
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "newsletter": [
+    {
+      "id": 0
+    },
+    {
+      "email": "Sam001@gmail.com",
+      "id": 1
+    },
+    {
+      "email": "av12@gmail.com",
+      "id": 2
+    },
+    {
+      "email": "vicky123@gmail.com",
+      "id": 3
+    }
+  ],
+  "contact": [
+    {
+      "id": 0
+    },
+    {
+      "name": "Vicky",
+      "phone": "09986456233",
+      "email": "vicky123@gmail.com",
+      "subject": "This is Sample message you have to do it bro",
+      "message": "This is Sample message you have to do it broThis is Sample message you have to do it broThis is Sample message you have to do it broThis is Sample message you have to do it broThis is Sample message you have to do it broThis is Sample message you have to do it broThis is Sample message you have to do it broThis is Sample message you have to do it broThis is Sample message you have to do it broThis is Sample message you have to do it broThis is Sample message you have to do it bro",
+      "date": "2023-12-22T10:33:22.834Z",
+      "status": "Active",
+      "id": 2
+    }
+  ],
+  "testimonial": [
+    {
+      "id": 0
+    },
+    {
+      "name": "Deva",
+      "profile": "Coder",
+      "pic": "person_2.jpg",
+      "message": "“I recently dined at [RestaurantName] and was thoroughly impressed by both the exquisite cuisine and the impeccable service. The menu showcased a variety of innovative dishes, blending bold flavors and beautiful presentation. The attentive and knowledgeable staff ensured that our meal was a memorable one, providing excellent recommendations and ensuring our satisfaction. I can’t recommend [RestaurantName] enough for a fantastic dining experience.”",
+      "id": 1
+    },
+    {
+      "name": "Sumit kumar",
+      "profile": "Management",
+      "pic": "person_3.jpg",
+      "message": "“My stay at [HotelName] was nothing short of spectacular. The hotel’s elegant design, combined with its top-notch amenities, made for a truly relaxing and enjoyable experience. The attentive and courteous staff catered to my every need, ensuring that my stay was as comfortable as possible. With its convenient location and outstanding service, [HotelName] has quickly become my go-to choice for accommodations whenever I travel to the area. 5 star!”",
+      "id": 2
+    },
+    {
+      "name": "Khushi Tiwari",
+      "profile": "Manager",
+      "pic": "person_4.jpg",
+      "message": "“My husband and I went for dinner in restaurant X and really enjoyed the atmosphere. The food was fresh and delicious, and the best part was that the chef sent us a dessert they had created that day. We were delighted.”",
+      "id": 3
+    },
+    {
+      "name": "Muskan",
+      "profile": "Hacker",
+      "pic": "person-1.jpg",
+      "message": "“I ordered a [product] from [Store Name] last week, and I was amazed at how quickly it arrived. The packaging was secure, ensuring the item was undamaged. The customer service was exceptional, as they kept me updated throughout the entire process. I had a question about the product, and their support team responded promptly and professionally. Overall, my experience with [Store Name] was outstanding, and I can’t wait for my next purchase.”",
+      "id": 4
+    }
+  ]
+}
